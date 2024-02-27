@@ -1,5 +1,5 @@
 {
-  "schema:codeRepository": "https://github.com/MarekSuchanek/smp-testing",
+  "schema:name": "SMP test",
   "schema:isAccessibleForFree": "true",
-  "schema:name": "SMP test"
+  "schema:codeRepository": "https://github.com/MarekSuchanek/smp-testing"
 }
